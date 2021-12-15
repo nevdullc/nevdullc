@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nevdullc
 - 👀 I’m interested in music, art, literature, history, philosophy and antropology.
-- 🌱 I’m currently learning Python, Kali Linux and obtaining my CEH.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any Open Source projects.
 - 📫 How to reach me ... not sure about this yet.. stay tuned.
 
